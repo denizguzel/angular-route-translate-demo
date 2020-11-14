@@ -1,0 +1,7 @@
+{
+  "ROUTES": {
+    "test": "mytest",
+    "test2": "mytest2",
+    "child": "child"
+  }
+}
